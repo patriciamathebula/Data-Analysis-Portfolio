@@ -5,7 +5,7 @@ I am proficient in Python, R ,SQL ,Excel, Power BI, and Tableau, and I have soli
 
 My data journey began in 2020 during my training at Khulisa Academy as a system Engineer trainee, that when i fallen in love and wanting to learn more about the data Analytics, having exposure working with big Data and Azure databases and other technologies for Data Analytics.
 
-In this Portfolio , I have inclided a variety of projects that showcase my Data Analytics skills. The dashboards and reports using various tools such as Power BI, Tableau and Excel to demonstrate my ability to analyze and present data in clear and visually appealing way making it easy to understand the insights and take action.
+In this Portfolio , I have included a variety of projects that showcase my Data Analytics skills. The dashboards and reports using various tools such as Power BI, Tableau and Excel to demonstrate my ability to analyze and present data in clear and visually appealing way making it easy to understand the insights and take action.
 
 I have also included my work in programming languages such as Python, SQL and R . This projects showcase my ability to extract valuable insights from large and complex dataset, and combine data from various or multiple data sources to create a comprehensive view of the data.
 
